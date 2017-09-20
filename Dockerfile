@@ -8,3 +8,6 @@ WORKDIR /opt/
 
 RUN git clone https://github.com/genome/cancer-genomics-workflow.git
 
+COPY detect_variants_yml.sh ./
+
+
