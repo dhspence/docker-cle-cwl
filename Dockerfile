@@ -1,4 +1,4 @@
-FROM mgibio/cle:vep_parser
+FROM mgibio/cle:v1.0.0
 MAINTAINER David Spencer <dspencer@wustl.edu>
 
 LABEL \
